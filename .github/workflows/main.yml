@@ -1,4 +1,4 @@
-name: generate animation
+name: snake gif
 
 on:
   # run automatically every 24 hours
