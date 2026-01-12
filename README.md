@@ -47,4 +47,5 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/AnnenMayKante/AnnenMayKante/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/AnnenMayKante/AnnenMayKante/output/github-contribution-grid-snake-dark.svg)
+
