@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kante</h1>
 <h3 align="center">Electrical & Electronics Engineer from Turkey 🇹🇷</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=annenmaykante&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=annenmaykante&theme=onedark&row=1&margin-w=15" />
-  </a>
-</p>
 
 ---
 
@@ -45,15 +36,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annenmaykante&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annenmaykante&layout=compact" height="165"/>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annenmaykante" />
-</p>
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=annenmaykante&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annenmaykante&layout=compact&theme=dark)
+
+
 
 ---
 
